@@ -1,8 +1,7 @@
 """
 FASTA PARSER NOTES:
 
-When using the Fasta File Parser, make sure that there is only one entry. This is because it can process only one gene/mrna at a time. 
-The fasta parser only returns the nucleotides of the entry, not the descriptor/name
+The Fasta Parser returns a dictionary from the fasta file. I'll need to figure out how to make it easier to identify the different sequences in a Fasta File
 
 """
 
