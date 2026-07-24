@@ -30,9 +30,9 @@ For each genomic suffix:
 3. If a valid subsequence exists, the positions participating in the match are recorded.
 4. A compactness score is calculated:
 
-\[
+$$
 Weight = \frac{RNA\ Length}{Match\ Span}
-\]
+$$
 
 where:
 
